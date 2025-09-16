@@ -1,5 +1,3 @@
-from xml.etree.ElementPath import prepare_parent
-
 from django.shortcuts import render
 from django.core.serializers import serialize
 from django.template.defaulttags import comment
